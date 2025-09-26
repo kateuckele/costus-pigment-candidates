@@ -1,0 +1,10 @@
+# Ignore genome assemblies
+data/genomes/*.fasta
+data/genomes/*.fa
+data/genomes/*.fna
+
+# Ignore genome annotations
+data/annotations/*.gff3
+
+# Ignore BLAST databases (blastdb)
+results/blastdb/*

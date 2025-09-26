@@ -1,0 +1,302 @@
+query_id,subject_id,percent_identity,alignment_length,evalue,bit_score,pigment_related,matched_pattern
+g18040.t1,Myc-type basic helix-loop-helix (bHLH) domain-containing protein [Dioscorea alata],50.87,344,6.19313e-103,311.997,TRUE,bHLH
+g18040.t1,Myc-type basic helix-loop-helix (bHLH) domain-containing protein [Dioscorea alata],51.16,346,4.44033e-95,292.352,TRUE,bHLH
+g18040.t2,Myc-type basic helix-loop-helix (bHLH) domain-containing protein [Dioscorea alata],51.02,343,1.16381e-104,316.235,TRUE,bHLH
+g18040.t2,Myc-type basic helix-loop-helix (bHLH) domain-containing protein [Dioscorea alata],51.3,345,7.79064e-97,296.59,TRUE,bHLH
+g18046.t1,transcription factor bHLH77 isoform X2 [Oryza sativa Japonica Group] >gb|EEC72026.1| hypothetical protein OsI_04910 [Oryza sativa Indica Group] >gb|KAB8084883.1| hypothetical protein EE612_007540 [Oryza sativa] >gb|ADX60276.1| bHLH transcription factor, partial [Oryza sativa Japonica Group] >gb|KAF2953965.1| hypothetical protein DAI22_01g446500 [Oryza sativa Japonica Group] >dbj|BAD82399.1| putative bHLH transcription factor [Oryza sativa Japonica Group],46.83,489,1.38478e-110,340.502,TRUE,bHLH
+g18046.t1,BHLH transcription factor [Saccharum hybrid cultivar SP80-3280] >gb|AVY91827.1| BHLH transcription factor [Saccharum hybrid cultivar SP80-3280],45.88,497,3.01656e-108,334.339,TRUE,BHLH
+g18046.t2,transcription factor bHLH77 isoform X2 [Oryza sativa Japonica Group] >gb|EEC72026.1| hypothetical protein OsI_04910 [Oryza sativa Indica Group] >gb|KAB8084883.1| hypothetical protein EE612_007540 [Oryza sativa] >gb|ADX60276.1| bHLH transcription factor, partial [Oryza sativa Japonica Group] >gb|KAF2953965.1| hypothetical protein DAI22_01g446500 [Oryza sativa Japonica Group] >dbj|BAD82399.1| putative bHLH transcription factor [Oryza sativa Japonica Group],46.86,446,1.00128e-97,306.99,TRUE,bHLH
+g18046.t2,BHLH transcription factor [Saccharum hybrid cultivar SP80-3280] >gb|AVY91827.1| BHLH transcription factor [Saccharum hybrid cultivar SP80-3280],45.47,453,1.60565e-93,296.204,TRUE,BHLH
+g18066.t1,Transcription factor TT2, partial [Ananas comosus],64.19,148,1.5952e-60,199.134,TRUE,TT2
+g18066.t1,putative flavonoid/anthocyanin regulator [Anthurium andraeanum],70.25,121,1.68196e-56,188.348,TRUE,flavonoid
+g18066.t1,R2R3-MYB transcription factor [Anthurium andraeanum],69.42,121,3.86393e-56,187.193,TRUE,R2R3-MYB
+g18066.t1,anthocyanin regulatory C1 protein [Triticum aestivum] >gb|AWJ95182.1| Ppm3 [Triticum aestivum] >gb|KAF7055730.1| hypothetical protein CFC21_063220 [Triticum aestivum] >gb|QBJ27600.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|QBJ27604.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|XBH58448.1| hypothetical protein VPH35_079882 [Triticum aestivum],55.49,164,4.7786e-54,181.03,TRUE,anthocyanin
+g18066.t1,anthocyanin regulatory C1 protein-like [Aegilops tauschii subsp. strangulata],55.49,164,6.06074e-54,181.03,TRUE,anthocyanin
+g18066.t1,anthocyanin regulatory C1 protein [Triticum aestivum] >gb|KAF7055728.1| hypothetical protein CFC21_063218 [Triticum aestivum] >gb|QBJ27603.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|XBH58447.1| hypothetical protein VPH35_079881 [Triticum aestivum],49.49,198,4.22261e-53,179.489,TRUE,anthocyanin
+g18066.t1,anthocyanin regulatory C1 protein [Aegilops tauschii subsp. strangulata],48.99,198,5.55704e-52,176.407,TRUE,anthocyanin
+g18066.t1,anthocyanin regulatory C1 protein-like isoform X2 [Phragmites australis],73.39,109,9.15612e-52,176.022,TRUE,anthocyanin
+g18066.t1,anthocyanin regulatory C1 protein-like [Lolium perenne],68.38,117,1.00392e-51,176.792,TRUE,anthocyanin
+g18066.t1,anthocyanin regulatory C1 protein-like [Lolium rigidum],67.52,117,2.16084e-51,175.252,TRUE,anthocyanin
+g18066.t1,anthocyanin regulatory C1 protein-like [Lolium rigidum],67.52,117,2.96572e-51,174.866,TRUE,anthocyanin
+g18066.t1,anthocyanin regulatory C1 protein-like [Lolium rigidum],49.75,199,2.99459e-51,174.866,TRUE,anthocyanin
+g18067.t1,Transcription factor TT2, partial [Ananas comosus],64.86,148,9.49232e-61,199.519,TRUE,TT2
+g18067.t1,putative flavonoid/anthocyanin regulator [Anthurium andraeanum],71.07,121,5.35124e-57,189.504,TRUE,flavonoid
+g18067.t1,R2R3-MYB transcription factor [Anthurium andraeanum],70.25,121,1.43035e-56,188.348,TRUE,R2R3-MYB
+g18067.t1,anthocyanin regulatory C1 protein [Triticum aestivum] >gb|AWJ95182.1| Ppm3 [Triticum aestivum] >gb|KAF7055730.1| hypothetical protein CFC21_063220 [Triticum aestivum] >gb|QBJ27600.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|QBJ27604.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|XBH58448.1| hypothetical protein VPH35_079882 [Triticum aestivum],54.27,164,7.18917e-53,177.948,TRUE,anthocyanin
+g18067.t1,anthocyanin regulatory C1 protein-like [Aegilops tauschii subsp. strangulata],54.27,164,9.62245e-53,177.948,TRUE,anthocyanin
+g18067.t1,anthocyanin regulatory C1 protein [Triticum aestivum] >gb|KAF7055728.1| hypothetical protein CFC21_063218 [Triticum aestivum] >gb|QBJ27603.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|XBH58447.1| hypothetical protein VPH35_079881 [Triticum aestivum],48.99,198,3.49561e-52,176.792,TRUE,anthocyanin
+g18067.t1,anthocyanin regulatory C1 protein-like isoform X2 [Phragmites australis],72.48,109,3.19451e-51,174.866,TRUE,anthocyanin
+g18077.t1,chalcone isomerase [Tricyrtis sp. Shinonome],68.69,214,4.56534e-100,295.819,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Canna indica],69.01,213,1.18337e-99,294.278,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Canna x generalis],69.01,213,5.12874e-99,292.738,TRUE,chalcone isomerase
+g18077.t1,RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Canna x generalis] >gb|AAZ80910.1| chalcone isomerase [Canna x generalis],68.54,213,2.08139e-98,291.197,TRUE,Chalcone isomerase
+g18077.t1,chalcone isomerase [Lilium hybrid cultivar],67.62,210,2.04486e-95,283.878,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Lilium speciosum],67.62,210,1.04241e-94,281.952,TRUE,chalcone isomerase
+g18077.t1,CHI [Tulipa fosteriana] >gb|AGL98423.1| chalcone-flavanone isomerase [Tulipa fosteriana],66.2,213,1.18618e-94,281.952,TRUE,CHI
+g18077.t1,chalcone isomerase 2 [Freesia hybrid cultivar],69.52,210,1.98409e-94,282.337,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Lycoris radiata],65.58,215,6.79167e-94,280.026,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Erythronium umbilicatum] >gb|UWK01852.1| chalcone isomerase [Erythronium umbilicatum],65.73,213,1.10467e-93,279.256,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Paris polyphylla var. yunnanensis],66.83,208,8.43159e-93,276.944,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Erythronium umbilicatum] >gb|UWK01854.1| chalcone isomerase [Erythronium umbilicatum],64.79,213,1.38189e-92,276.559,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],65.55,209,2.00538e-92,276.559,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],65.07,209,3.7807e-92,275.789,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],65.07,209,2.32097e-91,273.863,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Anthurium andraeanum],66.18,207,4.86313e-91,273.478,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],65.07,209,4.88075e-91,273.092,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Aglaonema commutatum],66.19,210,5.15827e-91,274.248,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase, partial [Lilium speciosum],68.5,200,8.57519e-91,270.781,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase 5 [Freesia hybrid cultivar],65.14,218,1.01546e-90,273.478,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],64.11,209,2.11151e-90,271.552,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],64.59,209,2.23011e-90,271.552,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase, partial [Lilium speciosum],68,200,4.52911e-90,269.24,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase, partial [Lilium speciosum],68,200,7.09301e-90,268.855,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase, partial [Lilium speciosum] >dbj|BAS69320.1| chalcone isomerase, partial [Lilium speciosum],68.34,199,1.15267e-89,268.47,TRUE,chalcone isomerase
+g18077.t1,chalcone--flavanone isomerase [Oryza sativa Japonica Group] >sp|A2XNF0.1| RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Oryza sativa Indica Group] >sp|Q84T92.1| RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Oryza sativa Japonica Group] >gb|KAB8094202.1| hypothetical protein EE612_021323 [Oryza sativa] >gb|AAO65886.1| chalcone isomerase [Oryza sativa Japonica Group] >gb|ABF99575.1| expressed protein [Oryza sativa Japonica Group] >gb|EAY92360.1| hypothetical protein OsI_14089 [Oryza sativa Indica Group] >gb|KAF2942039.1| hypothetical protein DAI22_03g392700 [Oryza sativa Japonica Group],63.81,210,1.46736e-89,268.855,TRUE,Chalcone isomerase
+g18077.t1,Chain A, Chalcone-flavonone isomerase family protein [Deschampsia antarctica] >pdb|5YX3|B Chain B, Chalcone-flavonone isomerase family protein [Deschampsia antarctica] >emb|CBX44252.1| chalcone isomerase I [Deschampsia antarctica],63.33,210,2.17193e-89,268.47,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Allium cepa],64.11,209,1.01101e-88,266.544,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Oryza sativa Japonica Group],63.33,210,1.15837e-88,266.544,TRUE,chalcone isomerase
+g18077.t1,putative chalcone isomerase [Muscari armeniacum],61.72,209,1.79802e-88,266.544,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Iris domestica],63.33,210,1.91152e-88,266.159,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Iris dichotoma],63.33,210,3.93299e-88,265.388,TRUE,chalcone isomerase
+g18077.t1,RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Allium cepa] >gb|AAS48418.1| chalcone isomerase [Allium cepa] >gb|AAU11845.1| chalcone isomerase [Allium cepa],63.64,209,6.62892e-88,264.618,TRUE,Chalcone isomerase
+g18077.t1,chalcone isomerase [Allium cepa],63.64,209,8.71248e-88,264.233,TRUE,chalcone isomerase
+g18077.t1,chalcone isomerase [Dracaena cambodiana],65.22,207,3.71517e-87,263.077,TRUE,chalcone isomerase
+g18077.t1,Chalcone isomerase protein [Dioscorea alata],63.16,209,8.91171e-87,261.536,TRUE,Chalcone isomerase
+g18077.t1,RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Zea mays] >emb|CAA80441.1| chalcone flavonone isomerase [Zea mays],65.35,202,4.56991e-86,259.996,TRUE,Chalcone isomerase
+g18078.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],65.79,76,4.07783e-25,99.3673,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Paris polyphylla var. yunnanensis],71.62,74,4.19077e-25,98.9821,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],65.79,76,4.73705e-25,99.3673,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],65.79,76,5.99462e-25,98.9821,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],65.79,76,6.39215e-25,98.9821,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],64.47,76,5.3113e-24,96.6709,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase 5 [Freesia hybrid cultivar],65.38,78,1.10439e-23,96.2857,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Tricyrtis sp. Shinonome],67.61,71,1.29225e-23,95.5153,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Dracaena cambodiana],60.26,78,1.86794e-23,95.1301,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase, partial [Lilium speciosum],71.01,69,3.2897e-23,93.5893,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase, partial [Lilium speciosum],71.01,69,3.36444e-23,93.5893,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase, partial [Lilium speciosum],71.01,69,3.62786e-23,93.5893,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Canna indica],71.83,71,3.92019e-23,93.9745,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Dracaena cambodiana],63.89,72,4.2154e-23,93.9745,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Erythronium umbilicatum] >gb|UWK01852.1| chalcone isomerase [Erythronium umbilicatum],71.64,67,4.34891e-23,93.9745,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase, partial [Lilium speciosum] >dbj|BAS69320.1| chalcone isomerase, partial [Lilium speciosum],71.01,69,4.36895e-23,93.2041,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase, partial [Tulipa fosteriana],70.15,67,4.72603e-23,91.2781,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Lilium speciosum],66.22,74,5.09536e-23,93.5893,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Erythronium umbilicatum] >gb|UWK01854.1| chalcone isomerase [Erythronium umbilicatum],70.15,67,8.62708e-23,93.2041,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Narcissus tazetta subsp. chinensis],67.14,70,9.48418e-23,93.2041,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Lycoris radiata],60.49,81,1.57338e-22,92.4337,TRUE,chalcone isomerase
+g18078.t1,putative chalcone isomerase [Muscari armeniacum],54.12,85,1.65681e-22,92.4337,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Canna x generalis],70.42,71,1.70046e-22,92.4337,TRUE,chalcone isomerase
+g18078.t1,RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Canna x generalis] >gb|AAZ80910.1| chalcone isomerase [Canna x generalis],70.42,71,1.79396e-22,92.0485,TRUE,Chalcone isomerase
+g18078.t1,CHI [Tulipa fosteriana] >gb|AGL98423.1| chalcone-flavanone isomerase [Tulipa fosteriana],70.15,67,3.35564e-22,91.6633,TRUE,CHI
+g18078.t1,chalcone isomerase 2 [Freesia hybrid cultivar],58.97,78,5.14457e-22,91.6633,TRUE,chalcone isomerase
+g18078.t1,Chain A, Chalcone-flavonone isomerase family protein [Deschampsia antarctica] >pdb|5YX3|B Chain B, Chalcone-flavonone isomerase family protein [Deschampsia antarctica] >emb|CBX44252.1| chalcone isomerase I [Deschampsia antarctica],56.79,81,1.08517e-21,90.1225,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Lilium hybrid cultivar],63.51,74,1.2158e-21,90.1225,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Aglaonema commutatum],54.22,83,1.30555e-21,90.8929,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase II [Deschampsia antarctica],56.79,81,2.27594e-21,90.5077,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase, partial [Asparagus officinalis],63.24,68,2.82784e-21,88.5817,TRUE,chalcone isomerase
+g18078.t1,RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Allium cepa] >gb|AAS48418.1| chalcone isomerase [Allium cepa] >gb|AAU11845.1| chalcone isomerase [Allium cepa],57.33,75,4.6794e-21,88.5817,TRUE,Chalcone isomerase
+g18078.t1,chalcone isomerase, partial [Anthurium andraeanum],57.89,76,1.10522e-20,85.8853,TRUE,chalcone isomerase
+g18078.t1,Chalcone isomerase protein [Dioscorea alata],62.86,70,1.12142e-20,87.4261,TRUE,Chalcone isomerase
+g18078.t1,chalcone isomerase [Iris domestica],60.27,73,1.18693e-20,87.4261,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Dioscorea alata],62.86,70,1.35926e-20,87.0409,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Allium cepa],57.33,75,1.70277e-20,87.0409,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Oryza sativa Japonica Group],55.81,86,3.07248e-20,86.6557,TRUE,chalcone isomerase
+g18078.t1,chalcone--flavanone isomerase [Oryza sativa Japonica Group] >sp|A2XNF0.1| RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Oryza sativa Indica Group] >sp|Q84T92.1| RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Oryza sativa Japonica Group] >gb|KAB8094202.1| hypothetical protein EE612_021323 [Oryza sativa] >gb|AAO65886.1| chalcone isomerase [Oryza sativa Japonica Group] >gb|ABF99575.1| expressed protein [Oryza sativa Japonica Group] >gb|EAY92360.1| hypothetical protein OsI_14089 [Oryza sativa Indica Group] >gb|KAF2942039.1| hypothetical protein DAI22_03g392700 [Oryza sativa Japonica Group],55.81,86,3.10536e-20,86.6557,TRUE,Chalcone isomerase
+g18078.t1,chalcone isomerase 1 [Freesia hybrid cultivar],65.28,72,3.17998e-20,86.2705,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Allium cepa],57.33,75,3.37003e-20,86.2705,TRUE,chalcone isomerase
+g18078.t1,chalcone isomerase [Iris dichotoma],58.9,73,4.35534e-20,86.2705,TRUE,chalcone isomerase
+g18085.t1,flavonol synthase/flavanone 3-hydroxylase-like [Cocos nucifera],58.58,367,7.61642e-154,442.58,TRUE,flavonol synthase
+g18085.t1,probable 2-oxoglutarate-dependent dioxygenase At5g05600 [Dendrobium catenatum] >gb|PKU65234.1| Flavonol synthase/flavanone 3-hydroxylase [Dendrobium catenatum],57.38,366,3.03306e-153,441.039,TRUE,Flavonol synthase
+g18085.t1,flavonol synthase/flavanone 3-hydroxylase-like isoform X4 [Carex littledalei],57.1,359,1.61632e-149,431.409,TRUE,flavonol synthase
+g18085.t1,flavonol synthase/flavanone 3-hydroxylase-like isoform X2 [Carex littledalei],55.89,365,6.36502e-148,427.943,TRUE,flavonol synthase
+g18085.t1,flavonol synthase/flavanone 3-hydroxylase-like [Cocos nucifera],56.79,368,8.85615e-148,427.172,TRUE,flavonol synthase
+g18085.t1,flavonol synthase/flavanone 3-hydroxylase-like [Cocos nucifera],59.61,359,1.08264e-147,427.172,TRUE,flavonol synthase
+g18085.t1,probable 2-oxoglutarate-dependent dioxygenase ANS [Ananas comosus],57.3,370,4.28108e-147,426.017,TRUE,ANS
+g18085.t1,flavonol synthase/flavanone 3-hydroxylase-like isoform X2 [Canna indica],57.5,360,1.27875e-146,424.476,TRUE,flavonol synthase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group] >emb|CAG1842841.1| unnamed protein product [Musa acuminata subsp. malaccensis],60.34,116,2.17477e-42,147.517,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase [Musa acuminata AAA Group],60.34,116,2.24573e-42,147.517,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],60.34,116,2.80361e-42,147.132,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],60.34,116,5.01096e-42,146.747,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],59.48,116,2.57408e-41,144.821,TRUE,O-methyltransferase
+g18099.t1,o-methyltransferase [Musa troglodytarum],56.9,116,7.8171e-41,143.665,TRUE,o-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],58.62,116,1.23717e-39,140.198,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase ZRP4-like protein [Carex littledalei],57.02,114,3.03155e-37,134.42,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],61.06,113,4.05277e-37,134.42,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],56.14,114,7.10002e-37,133.265,TRUE,O-methyltransferase
+g18099.t1,putative O-methyltransferase, partial [Elaeis guineensis],58.41,113,1.20455e-36,128.257,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],56.76,111,1.3886e-36,132.494,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],60.18,113,1.55911e-36,132.88,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Typha latifolia],55.26,114,4.05147e-36,131.339,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase [Rhynchospora pubera],58.41,113,4.52261e-36,131.339,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida] >gb|KAJ6828470.1| trans-resveratrol di-O-methyltransferase-like [Iris pallida],57.02,114,4.87576e-36,131.339,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],56.9,116,6.32683e-36,130.954,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],55.17,116,6.81464e-36,130.954,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase [Rhynchospora pubera] >gb|KAJ4780827.1| O-methyltransferase [Rhynchospora pubera],57.52,113,7.21753e-36,130.568,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Typha angustifolia],56.14,114,1.13395e-35,130.183,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],60.18,113,1.1831e-35,130.183,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],56.14,114,1.52907e-35,130.183,TRUE,O-methyltransferase
+g18099.t1,tabersonine 16-O-methyltransferase-like [Iris pallida],56.14,114,3.76712e-35,129.028,TRUE,O-methyltransferase
+g18099.t1,5-pentadecatrienyl resorcinol O-methyltransferase-like [Sorghum bicolor] >gb|EES08545.1| hypothetical protein SORBI_3005G129100 [Sorghum bicolor] >gb|KAG0529946.1| hypothetical protein BDA96_05G141300 [Sorghum bicolor],52.59,116,4.92057e-35,129.028,TRUE,O-methyltransferase
+g18099.t1,5-pentadecatrienyl resorcinol O-methyltransferase-like [Panicum miliaceum],53.85,117,5.34219e-35,128.642,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase [Cocos nucifera],59.29,113,6.23044e-35,128.257,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],58.41,113,8.95975e-35,127.872,TRUE,O-methyltransferase
+g18099.t1,tabersonine 16-O-methyltransferase-like [Iris pallida],55.26,114,1.3552e-34,127.487,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],55.26,114,1.36962e-34,127.487,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],55.26,114,1.65605e-34,127.102,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],53.51,114,1.7095e-34,127.102,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase [Lolium perenne],50.43,115,1.75302e-34,127.102,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],52.63,114,1.78445e-34,124.02,TRUE,O-methyltransferase
+g18099.t1,tabersonine 16-O-methyltransferase-like [Iris pallida],55.26,114,2.02606e-34,127.102,TRUE,O-methyltransferase
+g18099.t1,5-pentadecatrienyl resorcinol O-methyltransferase-like [Zea mays] >gb|ACF78916.1| unknown [Zea mays] >gb|AQK55502.1| 5-pentadecatrienyl resorcinol O-methyltransferase [Zea mays],52,125,2.80799e-34,127.487,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Lolium rigidum],52.17,115,2.93405e-34,126.716,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Typha angustifolia],55.36,112,3.56087e-34,126.331,TRUE,O-methyltransferase
+g18099.t1,5-pentadecatrienyl resorcinol O-methyltransferase [Zea mays],51.18,127,3.66267e-34,127.487,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase ZRP4-like [Miscanthus floridulus],53.91,115,6.10017e-34,125.561,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Typha latifolia],55.26,114,6.83745e-34,125.561,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase ZRP4 [Zea mays] >gb|AQK87595.1| O-methyltransferase ZRP4 [Zea mays],50.43,115,6.98371e-34,125.561,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase COMT-type protein [Dioscorea alata],51.75,114,7.51548e-34,124.79,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],54.87,113,7.98053e-34,120.939,TRUE,O-methyltransferase
+g18099.t1,5-pentadecatrienyl resorcinol O-methyltransferase-like [Sorghum bicolor] >gb|KAG0535426.1| hypothetical protein BDA96_04G365400 [Sorghum bicolor] >gb|KXG31339.1| hypothetical protein SORBI_3004G341500 [Sorghum bicolor],55,120,8.57456e-34,125.946,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase ZRP4 [Zea mays],52.59,116,8.6534e-34,125.176,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Cocos nucifera],54.87,113,9.25e-34,124.405,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase ZRP4-like [Miscanthus floridulus],53.91,115,9.83221e-34,125.176,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],52.63,114,1.25431e-33,122.479,TRUE,O-methyltransferase
+g18099.t1,Trans-resveratrol di-O-methyltransferase [Ananas comosus],55.26,114,1.47905e-33,124.79,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Typha latifolia],54.39,114,1.51063e-33,124.79,TRUE,O-methyltransferase
+g18099.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],56.52,115,2.30846e-33,124.02,TRUE,O-methyltransferase
+g18099.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],56.52,115,2.48595e-33,124.02,TRUE,O-methyltransferase
+g18099.t1,trans-resveratrol di-O-methyltransferase-like [Ananas comosus],52.63,114,2.69625e-33,120.939,TRUE,O-methyltransferase
+g18099.t1,Trans-resveratrol di-O-methyltransferase [Cocos nucifera],57.14,112,2.79565e-33,123.635,TRUE,O-methyltransferase
+g18099.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],55.65,115,3.35486e-33,123.635,TRUE,O-methyltransferase
+g18099.t1,O-methyltransferase ZRP4-like [Lolium rigidum],49.57,115,3.56226e-33,123.635,TRUE,O-methyltransferase
+g18099.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],53.04,115,4.0406e-33,122.865,TRUE,O-methyltransferase
+g18100.t1,o-methyltransferase [Musa troglodytarum],56.22,201,7.49958e-66,209.92,TRUE,o-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],56.19,194,1.78863e-64,208.764,TRUE,O-methyltransferase
+g18100.t1,o-methyltransferase [Musa troglodytarum],56.22,201,2.79074e-64,208.764,TRUE,o-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase [Musa acuminata AAA Group],56.77,192,4.07049e-64,207.994,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],57.29,192,4.5845e-64,207.994,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group] >emb|CAG1842841.1| unnamed protein product [Musa acuminata subsp. malaccensis],56.25,192,4.34142e-63,205.297,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],55.73,192,4.16418e-62,202.601,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],55.73,192,5.0429e-62,202.601,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],51.78,197,8.77848e-55,184.111,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],48.7,193,8.54999e-53,179.104,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],48.7,193,1.03731e-52,179.104,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],44.04,193,5.36643e-45,158.688,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],44.04,193,1.71347e-44,155.221,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],44.85,194,1.89097e-44,157.532,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],43.22,199,2.17755e-44,154.836,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],43.94,198,5.68588e-44,155.992,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Typha angustifolia],43.14,204,7.61926e-44,155.992,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],44.79,192,8.3975e-44,155.606,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],43.52,193,1.23688e-43,153.295,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],43.14,204,1.61552e-43,155.221,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],45.41,196,1.75471e-43,155.221,TRUE,O-methyltransferase
+g18100.t1,O-methyltransferase COMT-type protein [Dioscorea alata] >gb|KAH7692261.1| O-methyltransferase COMT-type protein [Dioscorea alata],40.96,188,2.40914e-43,151.754,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],42.78,194,2.47126e-43,154.451,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],43.23,192,3.94555e-43,154.066,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Typha angustifolia],42.51,207,5.64343e-43,153.68,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],43.52,193,6.8738e-43,153.295,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],43.07,202,7.93383e-43,153.295,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],43.3,194,1.13404e-42,152.91,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],43.81,194,1.21649e-42,150.214,TRUE,O-methyltransferase
+g18100.t1,O-methyltransferase ZRP4-like protein [Carex littledalei],42.41,191,1.45006e-42,152.525,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],44.9,196,2.18438e-42,152.14,TRUE,O-methyltransferase
+g18100.t1,O-methyltransferase COMT-type protein [Dioscorea alata],40.96,188,2.61827e-42,151.754,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Phragmites australis],44.28,201,2.84849e-42,152.14,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],43.14,204,4.00716e-42,151.754,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],45.21,188,5.17076e-42,151.369,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],42.79,201,7.34029e-42,150.984,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],43.22,199,8.62381e-42,150.214,TRUE,O-methyltransferase
+g18100.t1,O-methyltransferase [Rhynchospora pubera],41.36,191,8.65568e-42,149.828,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],42.71,192,8.92211e-42,148.673,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],40.59,202,1.00838e-41,150.599,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],41.18,204,1.11045e-41,150.599,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],42.49,193,1.82439e-41,149.828,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Typha angustifolia],42.16,204,1.96935e-41,149.828,TRUE,O-methyltransferase
+g18100.t1,LOW QUALITY PROTEIN: trans-resveratrol di-O-methyltransferase [Elaeis guineensis],41.58,202,1.99092e-41,149.828,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],41.58,202,2.91867e-41,149.443,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],42.65,204,3.52996e-41,149.443,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],41.58,190,5.39712e-41,148.288,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],40.59,202,6.00974e-41,148.288,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Ananas comosus],41.18,204,6.43369e-41,147.517,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],42.16,204,8.69411e-41,148.288,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase [Cocos nucifera],40.89,203,1.01129e-40,147.902,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],45.08,193,1.23677e-40,147.902,TRUE,O-methyltransferase
+g18100.t1,tabersonine 16-O-methyltransferase-like [Iris pallida],40.51,195,1.83994e-40,144.05,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],45.03,191,2.06249e-40,142.895,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Typha latifolia],43.07,202,2.36429e-40,146.747,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],42.65,204,2.85102e-40,146.747,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],42.44,205,3.44776e-40,146.747,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],41.03,195,3.49862e-40,146.362,TRUE,O-methyltransferase
+g18100.t1,tabersonine 16-O-methyltransferase-like [Iris pallida],40.93,193,3.69199e-40,146.362,TRUE,O-methyltransferase
+g18100.t1,tabersonine 16-O-methyltransferase-like [Iris pallida],40.65,214,4.55493e-40,146.362,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like isoform X2 [Ananas comosus],41.67,192,4.86572e-40,145.976,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Asparagus officinalis] >gb|ONK57095.1| uncharacterized protein A4U43_C10F16570 [Asparagus officinalis],39.25,186,5.07852e-40,145.976,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],41.03,195,6.20276e-40,145.976,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida] >gb|KAJ6828470.1| trans-resveratrol di-O-methyltransferase-like [Iris pallida],40.65,214,6.95972e-40,145.976,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase isoform X2 [Elaeis guineensis],43.88,196,8.8002e-40,144.821,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],41.75,194,9.19276e-40,145.206,TRUE,O-methyltransferase
+g18100.t1,Trans-resveratrol di-O-methyltransferase [Cocos nucifera],44.9,196,9.36794e-40,142.895,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase isoform X1 [Elaeis guineensis],43.88,196,1.22354e-39,145.206,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like isoform X1 [Ananas comosus] >ref|XP_020082487.1| trans-resveratrol di-O-methyltransferase-like isoform X1 [Ananas comosus],41.67,192,1.27415e-39,145.976,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],43.88,196,1.32986e-39,145.206,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],42.65,204,1.76531e-39,144.821,TRUE,O-methyltransferase
+g18100.t1,trans-resveratrol di-O-methyltransferase-like [Typha latifolia],42.65,204,1.89121e-39,144.436,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],52.86,367,1.05759e-134,394.045,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group] >emb|CAG1842841.1| unnamed protein product [Musa acuminata subsp. malaccensis],52.86,367,3.47699e-132,387.497,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase [Musa acuminata AAA Group],52.32,367,3.32811e-131,384.8,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],53.65,356,2.88135e-130,382.104,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],52.25,356,1.16469e-129,380.563,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],51.5,367,6.98199e-129,379.022,TRUE,O-methyltransferase
+g18101.t1,o-methyltransferase [Musa troglodytarum],50.84,358,2.01174e-126,372.859,TRUE,o-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Zingiber officinale],49.72,358,2.39544e-119,354.755,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],47.5,360,6.62818e-118,351.288,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],46.94,360,7.15514e-110,330.872,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],44.51,355,1.78971e-105,319.316,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],43.66,355,4.33127e-104,315.849,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],43.22,354,5.34308e-102,310.457,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase ZRP4-like protein [Carex littledalei],44.63,354,3.69297e-101,308.531,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase [Cocos nucifera],44.81,366,4.28723e-101,308.531,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],44.38,338,1.21594e-99,303.523,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],44.6,352,1.58332e-99,304.294,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],44.6,352,4.07323e-99,303.523,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],44.11,365,1.56167e-98,301.982,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],43.48,368,2.08064e-98,301.597,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],44.11,365,3.06153e-98,301.212,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],44.03,352,9.70538e-98,300.056,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group] >emb|CAL9176937.1| unnamed protein product [Musa hybrid cultivar],43.75,352,1.49838e-97,299.286,TRUE,O-methyltransferase
+g18101.t1,LOW QUALITY PROTEIN: trans-resveratrol di-O-methyltransferase [Elaeis guineensis],43.56,365,6.46715e-97,298.13,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group] >ref|XP_065039310.1| trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],43.75,352,6.85003e-97,297.745,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],43.21,368,8.16167e-97,297.36,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],43.32,367,1.61438e-96,297.36,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Elaeis guineensis],43.56,365,1.80847e-96,300.442,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Ananas comosus],43.25,363,3.28476e-96,296.204,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],43.75,352,3.76531e-96,295.819,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],43.48,368,4.15843e-96,295.819,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],43.21,368,4.39035e-96,295.434,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],43.18,352,8.68439e-96,295.049,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like isoform X1 [Ananas comosus],42.98,363,1.31726e-95,294.664,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera],44.19,353,1.76134e-95,293.893,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group],43.47,352,1.8363e-95,294.278,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera],42.62,359,1.9725e-95,293.893,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera] >gb|KAJ4780827.1| O-methyltransferase [Rhynchospora pubera],43.91,353,2.9977e-95,293.508,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],42.66,368,4.01827e-95,293.123,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],42.93,368,1.73875e-94,291.582,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera],43.3,358,2.34088e-94,291.197,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera],43.58,358,2.9721e-94,290.812,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase [Elaeis guineensis],43.56,365,3.14218e-94,291.197,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera],43.3,358,7.89217e-94,289.656,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Ananas comosus],41.87,363,8.0373e-94,290.041,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],42.78,367,1.46602e-93,289.656,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera],42.58,357,3.34419e-93,288.115,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera],43.02,358,6.13392e-93,287.345,TRUE,O-methyltransferase
+g18101.t1,O-methyltransferase [Rhynchospora pubera],44.19,353,8.54256e-93,287.345,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],42.86,357,1.60915e-92,286.189,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],42.16,370,1.37168e-91,284.263,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Phoenix dactylifera],43.58,358,1.81458e-91,284.263,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],41.85,368,3.88404e-91,283.108,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus gramineus],39.72,355,1.11439e-90,281.567,TRUE,O-methyltransferase
+g18101.t1,Trans-resveratrol di-O-methyltransferase [Acorus calamus],40,355,2.11257e-90,281.182,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Typha angustifolia],42.66,361,2.32963e-90,281.182,TRUE,O-methyltransferase
+g18101.t1,trans-resveratrol di-O-methyltransferase-like [Iris pallida],40.62,357,5.54337e-90,280.411,TRUE,O-methyltransferase
+g18122.t1,Flavonoid 3'-monooxygenase protein [Dioscorea alata],72.71,491,0,737.258,TRUE,Flavonoid

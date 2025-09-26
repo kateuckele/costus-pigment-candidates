@@ -1,0 +1,42 @@
+tools:
+  blastn: blastn
+  makeblastdb: makeblastdb
+  gffread: /Users/kathrynuckele/Documents/gffread/gffread
+
+# Candidate nucleotide FASTAs from C. lasius (one or many)
+queries:
+  - data/candidates/C_lasius_C1_transcript.fa
+  - data/candidates/C_lasius_CHI1_transcript.fa
+  - data/candidates/C_lasius_F3primeH_transcript.fa
+  - data/candidates/C_lasius_FLS_transcript.fa
+
+# Target species (genome + gff; db_prefix will be created if absent)
+species:
+  "Costus allenii":
+    genome_fasta: data/genomes/Costus_allenii.fasta
+    gff3:         data/annotations/Allenii_annotation.gff3
+    db_prefix:    results/blastdb/alle_genome_db
+  "Costus bracteatus":
+    genome_fasta: data/genomes/Costus_bracteatus.fasta
+    gff3:         data/annotations/Brac_annotation.gff3
+    db_prefix:    results/blastdb/brac_genome_db
+  "Costus pulverulentus":
+    genome_fasta: data/genomes/GCA_027562315.1_ASM2756231v1_genomic.fna
+    gff3:         data/annotations/Pulv_annotation.gff3
+    db_prefix:    results/blastdb/pulv_genome_db
+
+outdir: results/orthologs
+threads: 4
+
+# Filters for choosing best HSP per query/species
+filters:
+  max_evalue: 1e-20
+  min_pident: 60
+  min_align_len: 150
+
+# Extend region around HSP before gffread (-r)
+region_padding_bp: 1000
+
+# Keep the raw BLAST tables
+keep_blast_tables: true
+

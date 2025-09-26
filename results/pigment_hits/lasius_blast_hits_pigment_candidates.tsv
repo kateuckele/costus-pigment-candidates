@@ -1,0 +1,50 @@
+query_id	subject_id	percent_identity	alignment_length	evalue	bit_score	pigment_related	matched_pattern	n_pigment_hits
+g18040.t1	Myc-type basic helix-loop-helix (bHLH) domain-containing protein [Dioscorea alata]	50.87	344	6.19313e-103	311.997	TRUE	bHLH	2
+g18040.t1	Myc-type basic helix-loop-helix (bHLH) domain-containing protein [Dioscorea alata]	51.16	346	4.44033e-95	292.352	TRUE	bHLH	2
+g18040.t2	Myc-type basic helix-loop-helix (bHLH) domain-containing protein [Dioscorea alata]	51.02	343	1.16381e-104	316.235	TRUE	bHLH	2
+g18040.t2	Myc-type basic helix-loop-helix (bHLH) domain-containing protein [Dioscorea alata]	51.3	345	7.79064e-97	296.59	TRUE	bHLH	2
+g18046.t1	transcription factor bHLH77 isoform X2 [Oryza sativa Japonica Group] >gb|EEC72026.1| hypothetical protein OsI_04910 [Oryza sativa Indica Group] >gb|KAB8084883.1| hypothetical protein EE612_007540 [Oryza sativa] >gb|ADX60276.1| bHLH transcription factor, partial [Oryza sativa Japonica Group] >gb|KAF2953965.1| hypothetical protein DAI22_01g446500 [Oryza sativa Japonica Group] >dbj|BAD82399.1| putative bHLH transcription factor [Oryza sativa Japonica Group]	46.83	489	1.38478e-110	340.502	TRUE	bHLH	2
+g18046.t1	BHLH transcription factor [Saccharum hybrid cultivar SP80-3280] >gb|AVY91827.1| BHLH transcription factor [Saccharum hybrid cultivar SP80-3280]	45.88	497	3.01656e-108	334.339	TRUE	BHLH	2
+g18046.t2	transcription factor bHLH77 isoform X2 [Oryza sativa Japonica Group] >gb|EEC72026.1| hypothetical protein OsI_04910 [Oryza sativa Indica Group] >gb|KAB8084883.1| hypothetical protein EE612_007540 [Oryza sativa] >gb|ADX60276.1| bHLH transcription factor, partial [Oryza sativa Japonica Group] >gb|KAF2953965.1| hypothetical protein DAI22_01g446500 [Oryza sativa Japonica Group] >dbj|BAD82399.1| putative bHLH transcription factor [Oryza sativa Japonica Group]	46.86	446	1.00128e-97	306.99	TRUE	bHLH	2
+g18046.t2	BHLH transcription factor [Saccharum hybrid cultivar SP80-3280] >gb|AVY91827.1| BHLH transcription factor [Saccharum hybrid cultivar SP80-3280]	45.47	453	1.60565e-93	296.204	TRUE	BHLH	2
+g18066.t1	Transcription factor TT2, partial [Ananas comosus]	64.19	148	1.5952e-60	199.134	TRUE	TT2	12
+g18066.t1	putative flavonoid/anthocyanin regulator [Anthurium andraeanum]	70.25	121	1.68196e-56	188.348	TRUE	flavonoid	12
+g18066.t1	R2R3-MYB transcription factor [Anthurium andraeanum]	69.42	121	3.86393e-56	187.193	TRUE	R2R3-MYB	12
+g18066.t1	anthocyanin regulatory C1 protein [Triticum aestivum] >gb|AWJ95182.1| Ppm3 [Triticum aestivum] >gb|KAF7055730.1| hypothetical protein CFC21_063220 [Triticum aestivum] >gb|QBJ27600.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|QBJ27604.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|XBH58448.1| hypothetical protein VPH35_079882 [Triticum aestivum]	55.49	164	4.7786e-54	181.03	TRUE	anthocyanin	12
+g18066.t1	anthocyanin regulatory C1 protein-like [Aegilops tauschii subsp. strangulata]	55.49	164	6.06074e-54	181.03	TRUE	anthocyanin	12
+g18067.t1	Transcription factor TT2, partial [Ananas comosus]	64.86	148	9.49232e-61	199.519	TRUE	TT2	7
+g18067.t1	putative flavonoid/anthocyanin regulator [Anthurium andraeanum]	71.07	121	5.35124e-57	189.504	TRUE	flavonoid	7
+g18067.t1	R2R3-MYB transcription factor [Anthurium andraeanum]	70.25	121	1.43035e-56	188.348	TRUE	R2R3-MYB	7
+g18067.t1	anthocyanin regulatory C1 protein [Triticum aestivum] >gb|AWJ95182.1| Ppm3 [Triticum aestivum] >gb|KAF7055730.1| hypothetical protein CFC21_063220 [Triticum aestivum] >gb|QBJ27600.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|QBJ27604.1| R2R3 Myb transcription factor [Triticum aestivum] >gb|XBH58448.1| hypothetical protein VPH35_079882 [Triticum aestivum]	54.27	164	7.18917e-53	177.948	TRUE	anthocyanin	7
+g18067.t1	anthocyanin regulatory C1 protein-like [Aegilops tauschii subsp. strangulata]	54.27	164	9.62245e-53	177.948	TRUE	anthocyanin	7
+g18077.t1	chalcone isomerase [Tricyrtis sp. Shinonome]	68.69	214	4.56534e-100	295.819	TRUE	chalcone isomerase	37
+g18077.t1	chalcone isomerase [Canna indica]	69.01	213	1.18337e-99	294.278	TRUE	chalcone isomerase	37
+g18077.t1	chalcone isomerase [Canna x generalis]	69.01	213	5.12874e-99	292.738	TRUE	chalcone isomerase	37
+g18077.t1	RecName: Full=Chalcone--flavanone isomerase; Short=Chalcone isomerase [Canna x generalis] >gb|AAZ80910.1| chalcone isomerase [Canna x generalis]	68.54	213	2.08139e-98	291.197	TRUE	Chalcone isomerase	37
+g18077.t1	chalcone isomerase [Lilium hybrid cultivar]	67.62	210	2.04486e-95	283.878	TRUE	chalcone isomerase	37
+g18078.t1	chalcone isomerase [Narcissus tazetta subsp. chinensis]	65.79	76	4.07783e-25	99.3673	TRUE	chalcone isomerase	42
+g18078.t1	chalcone isomerase [Paris polyphylla var. yunnanensis]	71.62	74	4.19077e-25	98.9821	TRUE	chalcone isomerase	42
+g18078.t1	chalcone isomerase [Narcissus tazetta subsp. chinensis]	65.79	76	4.73705e-25	99.3673	TRUE	chalcone isomerase	42
+g18078.t1	chalcone isomerase [Narcissus tazetta subsp. chinensis]	65.79	76	5.99462e-25	98.9821	TRUE	chalcone isomerase	42
+g18078.t1	chalcone isomerase [Narcissus tazetta subsp. chinensis]	65.79	76	6.39215e-25	98.9821	TRUE	chalcone isomerase	42
+g18085.t1	flavonol synthase/flavanone 3-hydroxylase-like [Cocos nucifera]	58.58	367	7.61642e-154	442.58	TRUE	flavonol synthase	8
+g18085.t1	probable 2-oxoglutarate-dependent dioxygenase At5g05600 [Dendrobium catenatum] >gb|PKU65234.1| Flavonol synthase/flavanone 3-hydroxylase [Dendrobium catenatum]	57.38	366	3.03306e-153	441.039	TRUE	Flavonol synthase	8
+g18085.t1	flavonol synthase/flavanone 3-hydroxylase-like isoform X4 [Carex littledalei]	57.1	359	1.61632e-149	431.409	TRUE	flavonol synthase	8
+g18085.t1	flavonol synthase/flavanone 3-hydroxylase-like isoform X2 [Carex littledalei]	55.89	365	6.36502e-148	427.943	TRUE	flavonol synthase	8
+g18085.t1	flavonol synthase/flavanone 3-hydroxylase-like [Cocos nucifera]	56.79	368	8.85615e-148	427.172	TRUE	flavonol synthase	8
+g18099.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group] >emb|CAG1842841.1| unnamed protein product [Musa acuminata subsp. malaccensis]	60.34	116	2.17477e-42	147.517	TRUE	O-methyltransferase	57
+g18099.t1	trans-resveratrol di-O-methyltransferase [Musa acuminata AAA Group]	60.34	116	2.24573e-42	147.517	TRUE	O-methyltransferase	57
+g18099.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group]	60.34	116	2.80361e-42	147.132	TRUE	O-methyltransferase	57
+g18099.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group]	60.34	116	5.01096e-42	146.747	TRUE	O-methyltransferase	57
+g18099.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group]	59.48	116	2.57408e-41	144.821	TRUE	O-methyltransferase	57
+g18100.t1	o-methyltransferase [Musa troglodytarum]	56.22	201	7.49958e-66	209.92	TRUE	o-methyltransferase	72
+g18100.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group]	56.19	194	1.78863e-64	208.764	TRUE	O-methyltransferase	72
+g18100.t1	o-methyltransferase [Musa troglodytarum]	56.22	201	2.79074e-64	208.764	TRUE	o-methyltransferase	72
+g18100.t1	trans-resveratrol di-O-methyltransferase [Musa acuminata AAA Group]	56.77	192	4.07049e-64	207.994	TRUE	O-methyltransferase	72
+g18100.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group]	57.29	192	4.5845e-64	207.994	TRUE	O-methyltransferase	72
+g18101.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group]	52.86	367	1.05759e-134	394.045	TRUE	O-methyltransferase	57
+g18101.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group] >emb|CAG1842841.1| unnamed protein product [Musa acuminata subsp. malaccensis]	52.86	367	3.47699e-132	387.497	TRUE	O-methyltransferase	57
+g18101.t1	trans-resveratrol di-O-methyltransferase [Musa acuminata AAA Group]	52.32	367	3.32811e-131	384.8	TRUE	O-methyltransferase	57
+g18101.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group]	53.65	356	2.88135e-130	382.104	TRUE	O-methyltransferase	57
+g18101.t1	trans-resveratrol di-O-methyltransferase-like [Musa acuminata AAA Group]	52.25	356	1.16469e-129	380.563	TRUE	O-methyltransferase	57
+g18122.t1	Flavonoid 3'-monooxygenase protein [Dioscorea alata]	72.71	491	0	737.258	TRUE	Flavonoid	1
