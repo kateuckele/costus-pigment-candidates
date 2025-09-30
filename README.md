@@ -38,20 +38,27 @@ Not all intermediate files are versioned here; some large raw data are external.
 ```mermaid
 flowchart TD
 
-    A[Step 1: extract_transcripts.sh<br/>Translated transcripts from QTL region] 
-        --> B[Step 2: Manual BLASTp<br/>NCBI Protein DB]
+classDef scripted fill:#e6f4ea,stroke:#2e7d32,color:#1b5e20
+classDef manual   fill:#ffefea,stroke:#c62828,color:#8e0000
+classDef output   fill:#e3f2fd,stroke:#1565c0,color:#0d47a1
+classDef legend   fill:#f5f5f5,stroke:#9e9e9e,color:#424242
 
-    B --> C[Step 3: blast_xml_to_table.py<br/>Convert XML → TSV]
+A["Step 1 (script): extract_transcripts.sh<br/>Translated transcripts from QTL region → <code>results/transcripts/chr6_QTL_aa_transcripts.fa</code>"]:::scripted
+B["Step 2 (manual): BLASTp at NCBI (protein DB)<br/>Download XML → <code>results/blast_tables/*Alignment.xml</code>"]:::manual
+C["Step 3 (script): blast_xml_to_table.py<br/>XML → TSV → <code>results/blast_tables/lasius_blast_table.tsv</code>"]:::scripted
+D["Step 4 (script): summarize_blast_hits_pigments.R<br/>Filter/classify → <code>..._pigment_related.csv</code>, <code>..._pigment_candidates.tsv</code>"]:::scripted
+E["Step 5 (manual): curate candidates (C1, CHI1, F3primeH, FLS)<br/>Create FASTAs → <code>data/candidates/*.fa</code>"]:::manual
+F["Step 6 (script): ortholog_finder.py (via configs/orthologs.yaml)<br/>Find orthologs in other Costus species → <code>results/orthologs/*/</code>"]:::scripted
+G["Step 7 (manual): MAFFT (alignments) + IQ-TREE (gene trees)<br/>→ <code>results/alignments+trees/</code>"]:::manual
+H["Final outputs:<br/><code>pigment_hits/</code>, <code>orthologs/</code>, <code>alignments+trees/</code>"]:::output
 
-    C --> D[Step 4: summarize_blast_hits_pigments.R<br/>Filter/classify hits]
+A --> B --> C --> D --> E --> F --> G --> H
 
-    D --> E[Step 5: Manual curation<br/>Create candidate FASTAs (C1, CHI1, F3′H, FLS)]
-
-    E --> F[Step 6: ortholog_finder.py<br/>Find orthologs in other Costus species]
-
-    F --> G[Step 7: Manual alignment + tree building<br/>MAFFT + IQ-TREE]
-
-    G --> H[Final Outputs<br/>pigment_hits, orthologs, alignments + trees]
+subgraph Legend
+L1["Scripted step"]:::scripted
+L2["Manual step"]:::manual
+L3["Output collection"]:::output
+end
 ```
 
 
