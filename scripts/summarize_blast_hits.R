@@ -9,6 +9,12 @@
 # Usage:
 #   Rscript summarize_blast_hits_pigments.R \
 #     --input path/to/blast_table.tsv \
+#     --filtered-out path/to/blast_hits_pigment_related.csv \
+#     --best-out path/to/blast_hits_pigment_candidates.tsv
+#
+# Example:
+#   Rscript summarize_blast_hits_pigments.R \
+#     --input results/blast_tables/lasius_blast_table.tsv \
 #     --filtered-out results/pigment_hits/lasius_blast_hits_pigment_related.csv \
 #     --best-out results/pigment_hits/lasius_blast_hits_pigment_candidates.tsv
 #

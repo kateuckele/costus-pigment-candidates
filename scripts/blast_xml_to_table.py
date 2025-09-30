@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3ls
 """
 blast_xml_to_table.py
 ---------------------
@@ -8,7 +8,7 @@ Usage:
     ./blast_xml_to_table.py input.xml output_prefix
 
 Example:
-    ./blast_xml_to_table.py 0G799C6R013-Alignment.xml results/my_blast
+    ./blast_xml_to_table.py /results/blast_tables/0G799C6R013-Alignment.xml results/my_blast
 
 Output:
     results/my_blast.tsv

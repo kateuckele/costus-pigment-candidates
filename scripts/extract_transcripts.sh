@@ -9,8 +9,8 @@
 #     --genome C.lasius_genome_NCBI.fasta \
 #     --gff Lasius_annotation.renamed.gff3 \
 #     --region Chrom6:3343495-4962302 \
-#     --out-prefix chr6_region \
-#     --outdir results/ \
+#     --out-prefix chr6_QTL \
+#     --outdir results/transcripts/ \
 #     [--gffread-cmd /path/to/gffread]
 #
 # Outputs:
